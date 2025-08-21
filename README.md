@@ -1,5 +1,3 @@
----
-
 # 🖥️ Ubuntu Laptop Power Profiles
 
 This repo contains two simple toggle scripts for **Ubuntu laptops** that let you switch between:
