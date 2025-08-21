@@ -1,5 +1,3 @@
-Here’s a clean **README.md** you can drop into your GitHub repo alongside the scripts 👇
-
 ---
 
 # 🖥️ Ubuntu Laptop Power Profiles
@@ -36,7 +34,7 @@ These scripts are designed to be **generic**, so they should work on most Ubuntu
 Clone the repo and make the scripts executable:
 
 ```bash
-git clone https://github.com/yourusername/ubuntu-power-profiles.git
+git clone https://github.com/mihirkulaa/Scripts.git
 cd ubuntu-power-profiles
 chmod +x office-mode.sh gaming-mode.sh
 ```
@@ -93,5 +91,3 @@ Switch to **gaming mode** (full performance):
 MIT License – free to use, modify, and share.
 
 ---
-
-👉 Want me to also write a **systemd service** + README instructions so that `office-mode` auto-activates when you unplug from AC, and `gaming-mode` kicks in when you plug back?
